@@ -73,3 +73,8 @@ h1 {
     margin: 10px;
     background-color: white;
 }
+
+p {
+    text-transform: capitalize;
+    font-size: 24px;
+}
